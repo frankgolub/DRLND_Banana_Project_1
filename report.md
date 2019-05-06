@@ -19,7 +19,7 @@ This repository presents a solution in 489 episodes using a Deep Q-Network. The 
 The network trains in 4 min. 17 s. using an Intel i9-9900K 8-core CPU, 64 GB of RAM, and an 11GB NVIDIA 2080 TI GPU.
 
 <p align="center">
-  <img width="460" height="300" src="Results/Figure_dqn_normal_soln.png">
+  <img width="460" height="300" src="Results/Figure_dqn_normal_soln_final.png">
 </p>
 
 <p align="center">
