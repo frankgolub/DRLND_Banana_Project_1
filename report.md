@@ -1,4 +1,4 @@
-This report presents a solution to the Continuous Control Project in the Udacity Deep Reinforcement Learning Nanodegree. 
+This report presents a solution to the Navigation Project in the Udacity Deep Reinforcement Learning Nanodegree. 
 
 ## Overview
 
